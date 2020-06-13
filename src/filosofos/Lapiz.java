@@ -11,7 +11,7 @@ import java.util.concurrent.Semaphore;
  *
  * @author Agus
  */
-public class Cubierto {
+public class Lapiz {
 
     public Semaphore mutex = new Semaphore(1);
 
